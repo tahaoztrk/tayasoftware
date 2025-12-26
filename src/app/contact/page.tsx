@@ -26,7 +26,7 @@ export default function ContactPage() {
                             </div>
                             <div style={{ marginBottom: '2rem' }}>
                                 <strong style={{ color: 'var(--primary)' }}>E-posta</strong> <br />
-                                <a href="mailto:info@tayadev.com" style={{ color: 'var(--text-secondary)' }}>info@tayadev.com</a>
+                                <a href="mailto:info@tayasoftware.dev" style={{ color: 'var(--text-secondary)' }}>info@tayasoftware.dev</a>
                             </div>
                             <div>
                                 <strong style={{ color: 'var(--primary)' }}>Telefon</strong> <br />

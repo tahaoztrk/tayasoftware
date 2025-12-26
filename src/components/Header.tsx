@@ -9,7 +9,7 @@ export default function Header() {
                     TAYA SOFTWARE DEV.
                 </Link>
                 <nav className="nav">
-                    <a href="mailto:info@tayadev.com" className="btn-modern">
+                    <a href="mailto:info@tayasoftware.dev" className="btn-modern">
                         Bize Ulaşın
                     </a>
                 </nav>
