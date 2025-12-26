@@ -1,7 +1,10 @@
 .hero {
-    padding-top: var(--nav-height);
+    padding-top: calc(var(--nav-height) + 4rem);
+    /* Added significant padding to clear header */
     padding-bottom: 0;
     height: 100vh;
+    min-height: 700px;
+    /* Ensure minimum height on short screens */
     display: flex;
     align-items: center;
     justify-content: center;
